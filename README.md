@@ -7,7 +7,7 @@ This script extracts tables from a PDF file and saves them into an Excel file. I
 
 Make sure you have the following libraries installed:
 
-- PyMuPDF (`fitz`)
+- fitz
 - pandas
 - openpyxl
 
